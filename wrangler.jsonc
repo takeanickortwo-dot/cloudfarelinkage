@@ -1,0 +1,11 @@
+{
+  "name": "takeanickortwo-linkhub",
+  "compatibility_date": "2026-07-20",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  },
+  "vars": {
+    "ENVIRONMENT": "production"
+  }
+}

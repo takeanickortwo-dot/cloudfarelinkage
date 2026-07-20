@@ -1,0 +1,65 @@
+{
+  "project_name": "takeanickortwo-linkhub",
+  "sites": [
+    {
+      "name": "Dab Timer",
+      "url": "https://dabtimer.pages.dev",
+      "icon": "\u23f1\ufe0f",
+      "category": "Tools & Utilities"
+    },
+    {
+      "name": "AntiEvedrop",
+      "url": "https://antievedrop.pages.dev",
+      "icon": "\ud83d\udd12",
+      "category": "Tools & Utilities"
+    },
+    {
+      "name": "Historic Symposium",
+      "url": "https://historicsymposium.pages.dev",
+      "icon": "\ud83c\udfdb\ufe0f",
+      "category": "Knowledge & Media"
+    },
+    {
+      "name": "New Old Wisdom",
+      "url": "https://newoldwisdom.pages.dev",
+      "icon": "\ud83e\udd89",
+      "category": "Knowledge & Media"
+    },
+    {
+      "name": "Lossless Trimonics",
+      "url": "https://losslesstrimonics.pages.dev",
+      "icon": "\ud83c\udfb5",
+      "category": "Knowledge & Media"
+    },
+    {
+      "name": "Harmonious Cocada",
+      "url": "https://harmoniouscocada.pages.dev",
+      "icon": "\ud83c\udf0a",
+      "category": "Knowledge & Media"
+    },
+    {
+      "name": "Global Flashpoint",
+      "url": "https://globalflashpoint.pages.dev",
+      "icon": "\u26a1",
+      "category": "Global Monitoring"
+    },
+    {
+      "name": "Flashpoint Dashboard",
+      "url": "https://flashpoint-dashboard.pages.dev",
+      "icon": "\ud83d\udcca",
+      "category": "Global Monitoring"
+    },
+    {
+      "name": "OSINT Loadoff",
+      "url": "https://osintloadoff.pages.dev",
+      "icon": "\ud83d\udd75\ufe0f",
+      "category": "OSINT & Intelligence"
+    },
+    {
+      "name": "Epic Dabber",
+      "url": "https://epicdabber.pages.dev",
+      "icon": "\ud83d\udd25",
+      "category": "Community"
+    }
+  ]
+}

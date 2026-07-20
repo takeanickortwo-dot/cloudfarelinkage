@@ -1,0 +1,16 @@
+{
+  "name": "takeanickortwo-linkhub",
+  "version": "1.0.0",
+  "description": "Link hub deployed on Cloudflare",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "generate": "bash generate.sh",
+    "dev": "wrangler dev",
+    "setup": "npm install -g wrangler && wrangler login",
+    "preview": "npx serve dist",
+    "status": "wrangler whoami"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
